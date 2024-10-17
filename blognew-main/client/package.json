@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "flowbite": "^2.5.2",
     "markdown-it": "^14.1.0",
     "nuxi": "^3.14.0",
     "nuxt": "^3.13.0",
